@@ -1,6 +1,5 @@
 # Full Stack E‑Commerce Platform with AI-based Product Recommendations
 
-A complete semester-ready project including:
 - **Backend:** Spring Boot (Java 17), REST API, JPA, H2 (dev) with seed data, simple AI recommendations (tag similarity).
 - **Frontend:** React + Vite (JavaScript), product catalogue, cart, checkout stub, recommendations widget.
 - **Docs:** API overview, setup steps, sample data.
@@ -53,5 +52,4 @@ SPRING_PROFILES_ACTIVE=mysql ./mvnw spring-boot:run
 
 ---
 
-## Semester Report Hints
 Include: problem statement, system architecture (include the class diagram here), data model (ERD), algorithms (recommendation), screenshots, test cases, conclusion & future work.
